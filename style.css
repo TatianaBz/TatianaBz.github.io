@@ -127,10 +127,14 @@ a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-  }
+ }
 .head-logo{
     width: 100%;
     margin: 46px auto 32px auto;
+ 
+}
+.center{
+    vertical-align: middle;
 }
 .head-name{
     text-align: center;
